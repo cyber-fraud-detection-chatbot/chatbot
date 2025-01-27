@@ -1,0 +1,4 @@
+nest_asyncio
+qdrant_client
+llama_index
+Ollama
